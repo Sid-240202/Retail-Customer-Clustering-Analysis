@@ -39,4 +39,4 @@ I utilized the **Elbow Method** (Within-Cluster Sum of Squares) and **Silhouette
 - [ ] Deploy a dynamic dashboard using **Dash** or **Streamlit**.
 
 ---
-Developed by [Your Name] – [Your LinkedIn Profile]
+Developed by Siddharth Pal – https://www.linkedin.com/in/Siddharth-2003-Pal
